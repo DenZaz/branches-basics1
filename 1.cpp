@@ -4,3 +4,5 @@
 
 
 #define N 19
+
+int main(int argc, char *argv[])
